@@ -30,8 +30,9 @@ a{
 
 .primero{
     width: 50%;
-    background-color: goldenrod;
+    background-color: navy;
     font-family: 'Times New Roman', Times, serif;
+    color: white;
     text-align: center;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -49,7 +50,7 @@ a{
 
 .segundo {
     width: 50%;
-    background-color: rgb(67, 233, 89);
+    background-color: orange;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -57,6 +58,8 @@ a{
 }
 
 .wallpaper {
+    width: 100%;
+    height: auto;
     margin: 0%;
     padding: 0%;
 }
@@ -68,7 +71,7 @@ a{
 /* SERVICIOS */
 
 #services {
-    background-color: steelblue;
+    background-color: mediumblue;
     margin: 0%;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -118,7 +121,7 @@ a{
     display: flex ;
     flex-direction: row;
     flex-grow: no-wrap;
-    background-color: mediumaquamarine;
+    background-color: orange;
     border: 3px solid black;
    
     
@@ -142,7 +145,7 @@ a{
     padding: 2px;
     margin-top: 5px;
     margin-left: 5px;
-    border: 5px solid royalblue;
+    border: 5px solid navy;
 }
 
 
@@ -195,7 +198,7 @@ a{
     text-align: center;
     height: auto;
     width: 50%;
-    background-color: royalblue;
+    background-color: navy;
     border: 3px solid orange;
     padding: auto;
 
